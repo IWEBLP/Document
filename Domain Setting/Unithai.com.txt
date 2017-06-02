@@ -1,0 +1,7 @@
+ftp Accout : unithai
+Password : gVhp9d.0
+
+SQL Server
+Remote Desktop : www.unithai.com:33899
+user : unithai
+password : gVhp9d.0

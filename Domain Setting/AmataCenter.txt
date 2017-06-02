@@ -1,0 +1,6 @@
+ftp
+
+username : amata
+password : pun403535
+
+เข้าไปจัดการใน Domain Panel ได้เลย

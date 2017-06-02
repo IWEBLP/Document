@@ -1,0 +1,22 @@
+********Domain*************
+www.domain.com
+user :  preechakorn
+pw : pun403535
+
+********Control Panel*********
+https://bpthaihosting.com:8443
+user :  preechakorn
+pw : pun403535
+
+********Web Mail****
+Webmail
+http://webmail.happydiamondandjewelry.com
+
+********POP3 Server*********
+mail.happydiamondandjewelry.com
+
+********FTP***************
+ftp.happydiamondandjewelry.com
+
+********SQL Panel*********
+http://www.bpthaihosting.com:8401/mssql/app/connect.aspx
